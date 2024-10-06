@@ -2,8 +2,8 @@
 
 ## Sobre Mim
 - 🔭 Atualmente trabalhando em Criação de Sites (https://marcosdeveloper1.github.io/landingpage1/)
-- 🌱 Aprendendo Javascript
-- 📫 Como me encontrar: [LinkedIn](link), [Email](mailto:seu-email@example.com)
+- 🌱 Aprendendo [Javascript]
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/marcos-levi-063b46221/), [Email](mailto:seu-email@example.com)
 
 ## Meus Projetos
 - [Projeto 1](link) - Breve descrição
