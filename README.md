@@ -1,7 +1,7 @@
 # Olá, meu nome é Marcos Levi 👋
 
 ## Sobre Mim
-- 🔭 Atualmente trabalhando em [Projeto X](link)
+- 🔭 Atualmente trabalhando em Criação de Sites (https://marcosdeveloper1.github.io/landingpage1/)
 - 🌱 Aprendendo [Tecnologia Y]
 - 📫 Como me encontrar: [LinkedIn](link), [Email](mailto:seu-email@example.com)
 
