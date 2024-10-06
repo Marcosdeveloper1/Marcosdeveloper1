@@ -6,11 +6,11 @@
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/marcos-levi-063b46221/), [Email](mailto:seu-email@example.com)
 
 ## Meus Projetos
-- [Landing Page]([link](https://marcosdeveloper1.github.io/landingpage1/)) - Breve descrição
-- [Página de Login]([link](https://marcosdeveloper1.github.io/estudos/)) - Breve descrição
-- [Blog em Html e CSS]([link](https://marcosdeveloper1.github.io/html-css/)) - Breve descrição
-- [Portfólio]([link](https://marcosdeveloper1.github.io/portfolio/)) - Breve descrição
-- [Página de Login 2](https://marcosdeveloper1.github.io/sistema-de-login/)) - Breve descrição
+- [Landing Page](https://marcosdeveloper1.github.io/landingpage1/) - Breve descrição
+- [Página de Login](https://marcosdeveloper1.github.io/estudos/) - Breve descrição
+- [Blog em Html e CSS](https://marcosdeveloper1.github.io/html-css/) - Breve descrição
+- [Portfólio](https://marcosdeveloper1.github.io/portfolio/) - Breve descrição
+- [Página de Login 2](https://marcosdeveloper1.github.io/sistema-de-login/) - Breve descrição
 
 ## Habilidades
 
