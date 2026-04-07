@@ -10,6 +10,8 @@
 - [Landing Page](https://marcosdeveloper1.github.io/landingpage1/) - Landing Page de Alta conversão
 - [Página de Login](https://marcosdeveloper1.github.io/estudos/) - Página de Login em html e css
 - [Blog em Html e CSS](https://marcosdeveloper1.github.io/html-css/) - Página de post de blog em Html e CSS
+- [Blog 2](https://marcosdeveloper1.github.io/falageek/) - Site Construído no Wordpress
+
 - [Página de Login 2](https://marcosdeveloper1.github.io/sistema-de-login/) - Página de Login 2 em html e css
 
 ## Habilidades
