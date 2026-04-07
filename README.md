@@ -24,6 +24,6 @@
 ![Design Gráfico](https://img.shields.io/badge/Design%20Gráfico-FF6347?style=for-the-badge&logo=adobe&logoColor=white)
 
 ## Orçamento
-- [Fiverr](https://bit.ly/4shZ8H6) - Página do meu Portfólio
+- [Fiverr](https://bit.ly/4shZ8H6) - Meus planos!
 
 
